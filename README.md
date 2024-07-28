@@ -11,7 +11,6 @@ Abans de començar, assegura't de tenir instal·lats els següents elements al t
 - **Qt 5**: Es recomana Qt 5.15 o posterior.
 - **OpenGL**: Una versió compatible d'OpenGL.
 - **Compilador C++**: Un compilador que suporti C++11 o posterior.
-- **CMake**: Per construir el projecte.
 
 ### Passos per Instal·lar i Configurar
 
